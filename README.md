@@ -50,7 +50,7 @@ This repository contains the implementation of a Retrieval-Augmented Generation 
    - Refine prompts for better-quality responses from the LLM.
 
 3. **Text-to-Speech Integration:**
-   - Pass generated outputs to a TTS system, allowing users to listen to the responses.
+   - Pass generated outputs to a a better TTS system, allowing users to listen to the responses as if they were coming from a newscast.
 
 ## References and Tools Used ⚙️
 - **LangChain:** Framework for building applications with LLMs ([LangChain GitHub](https://github.com/hwchase17/langchain)).
